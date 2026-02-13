@@ -1,6 +1,6 @@
 const Home = () => {
   return (
-    <div>Homes for all the peoples</div>
+    <div>Homes for all the peopleslsfjljsfljslfjaL</div>
   )
 }
 
